@@ -6,3 +6,5 @@ Boilerplate for static websites
 * Starting point for static websites
 
 ## How do I use this?
+
+* Clone the repo
